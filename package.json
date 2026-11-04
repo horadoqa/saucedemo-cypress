@@ -4,6 +4,7 @@
   "description": "Projeto de Teste com Cypress",
   "main": "index.js",
   "scripts": {
+    "test": "cypress run",
     "cy:open": "cypress open",
     "cy:run": "cypress run"
   },

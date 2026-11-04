@@ -143,6 +143,7 @@ json
 
 ```json
 "scripts": {
+  "test": "cypress run",
   "cy:open": "cypress open",
   "cy:run": "cypress run"
 }
@@ -156,6 +157,8 @@ bash
 
 ```bash
 npm run cy:open
+
+ou npm test
 ```
 
 Executar os testes pelo terminal:

@@ -1,4 +1,4 @@
-# Projeto de Teste com Cypress com o e-commerce Saucedemo
+# Projeto de Teste com Cypress & Saucedemo
 
 Para inicializar um projeto de testes automatizados com Cypress do zero, vou te mostrar o processo usando Node.js + npm, desde a criação do projeto até a execução do primeiro teste.
 

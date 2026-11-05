@@ -1,8 +1,4 @@
-# saucedemo-cypress
-
-Projeto de Teste com Cypress
-
-urlL https://www.saucedemo.com/
+# Projeto de Teste com Cypress com o e-commerce Saucedemo
 
 Para inicializar um projeto de testes automatizados com Cypress do zero, vou te mostrar o processo usando Node.js + npm, desde a criação do projeto até a execução do primeiro teste.
 
@@ -149,9 +145,9 @@ json
 }
 ```
 
-Agora você pode executar:
+## Agora você pode executar:
 
-Abrir a interface gráfica:
+### Abrir a interface gráfica:
 
 bash
 
@@ -161,7 +157,7 @@ npm run cy:open
 ou npm test
 ```
 
-Executar os testes pelo terminal:
+### Executar os testes pelo terminal:
 
 bash
 
@@ -202,25 +198,15 @@ Ao final, você terá:
 
 Projeto Cypress inicializado
 
-Node.js configurado
+| Etapa | Status |
+| --- | --- |
+| Node.js configurado | OK |
+| Cypress instalado | OK |
+| Estrutura de pastas criada | OK |
+| Primeiro teste automatizado | OK |
+| Execução via terminal | OK |
 
-OK
-
-Cypress instalado
-
-OK
-
-Estrutura de pastas criada
-
-OK
-
-Primeiro teste automatizado
-
-OK
-
-Execução via terminal
-
-OK
+Resultado: 5 de 5 etapas concluídas (100% de conclusão).
 
 ## Próximo passo: estruturar um projeto profissional
 
@@ -233,7 +219,3 @@ Depois dessa inicialização, recomendo evoluir para uma estrutura de automaçã
 - Testes de API.
 - Relatórios de execução.
 - Integração com pipeline CI/CD (GitHub Actions ou Jenkins).
-
-Uma pergunta: você pretende utilizar Cypress para testar uma aplicação web (frontend) ou também quer fazer testes de API?
-
-Assim consigo te mostrar uma estrutura de projeto mais próxima de um ambiente real de QA.
